@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'website';
+  title = "Marcin Bielen IT";
+  footer = `2021 © ${this.title} , All rights reserved.`;
+  aboutMe = "sduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidisduaihdiashduihasuihdiuashduiahsuidhauihdiuhaiudhasuidhuiashduihuidi";
 }
